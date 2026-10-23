@@ -107,7 +107,7 @@ Furthermore, for the `justification of method choice (I.5)`, the authors rely pr
 For `justifying the level of analysis (I.6)`, they select the sentence level as the unit of analysis, which is aligned with the literature and the structure of the survey items. For the `justification of preprocessing decisions` (`I.7`), the authors only provide a detailed description for the Logit model, omitting such details for the other methods.
 
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip collapse="true" style="margin: 1.5rem 0 1.5rem 2rem; cursor: pointer;"}
 ### Filled-Out Checklist
 
 <iframe src="images/substantive.pdf" width="100%" height="600px">
@@ -128,7 +128,7 @@ To evaluate the model output, they furthermore conduct extensive `error analysis
 They `inspect predictive model features (II.1)`, comparing the most predictive unigrams across datasets and methods, noting that models trained on adversarial examples demonstrate greater robustness.
 For model output evaluation, they conduct `error analysis (II.5) on misclassified examples` using their BERT model, examining factors like model type, data origin, and coder agreement to identify systematic errors.
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip collapse="true" style="margin: 1.5rem 0 1.5rem 2rem; cursor: pointer;"}
 ### Filled-Out Checklist
 
 <iframe src="images/structural.pdf" width="100%" height="600px">
@@ -144,7 +144,7 @@ To demonstrate external evidence, @samory2021call primarily rely on the `compari
 To calculate classification performance, they apply k-fold cross-validation and report F1 scores.
 The evaluation of F1 score is widely regarded as the most viable metric, as alternative metrics such as accuracy (i.e., the overall ratio of positive predictions) can be misleading when dealing with imbalanced data [@spelmen2018review].
 
-::: {.callout-tip collapse="true"}
+::: {.callout-tip collapse="true" style="margin: 1.5rem 0 1.5rem 2rem; cursor: pointer;"}
 ### Filled-Out Checklist
 
 <iframe src="images/external.pdf" width="100%" height="600px">
