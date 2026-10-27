@@ -11,7 +11,7 @@ editor: visual
 
 # 1. Introduction
 
-In this tutorial, we introduce the [ValiText](https://www.valitex.info/) tool, a framework and instrument for validating text-based measures of social constructs.
+In this tutorial, we introduce the ValiText tool, a framework and instrument for validating text-based measures of social constructs.
 ValiText helps researchers to execute and document validation by providing conceptual and practical guidance for researchers [@birkenmaier2023valitext].
 
 Validation is a necessary requirement for any text analysis [@grimmer2013text].
